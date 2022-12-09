@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IY5T9/zou4CDwa5lFdy/KmoNF7mUOGO3DQMj3lHORm8=",
+  "Source": "APISearch",
+  "BasePath": "_content/APISearch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APISearch\\wwwroot",
+      "Source": "APISearch",
+      "ContentRoot": "C:\\Users\\thilu\\Documents\\WS - Curso C#\\API de busca\\APISearch\\APISearch\\wwwroot\\",
+      "BasePath": "_content/APISearch",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\thilu\\Documents\\WS - Curso C#\\API de busca\\APISearch\\APISearch\\wwwroot\\index.html",
+      "SourceId": "APISearch",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thilu\\Documents\\WS - Curso C#\\API de busca\\APISearch\\APISearch\\wwwroot\\",
+      "BasePath": "_content/APISearch",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
